@@ -30,6 +30,6 @@ sphinxcontrib-websupport==1.1.0
 SQLAlchemy==1.0.10
 transaction==2.4.0
 typing==3.6.6
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 zope.interface==4.6.0
 zope.sqlalchemy==0.7.7
