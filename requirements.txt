@@ -2,7 +2,7 @@ alabaster==0.7.12
 alembic==1.0.7
 Babel==2.6.0
 docutils==0.14
-Flask==0.10.1
+Flask==1.0
 Flask-Env==2.0.0
 Flask-Migrate==1.8.0
 Flask-Script==2.0.6
